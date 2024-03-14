@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ragibe</h1>
 <h3 align="center">I'm a passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **api-react**
+- 🔭 I’m currently working on [api-react](https://github.com/Rgb90/api-react)
 
 - 🌱 I’m currently learning **JavaScript, React, TypeScript**
 
